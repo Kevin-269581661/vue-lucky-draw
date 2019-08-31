@@ -1,7 +1,7 @@
 {
   "name": "vue-lucky-draw",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Vue移动端九宫格转盘抽奖，中奖的奖品数据由接口决定",
   "author": "Kevin-269581661 <269581661@qq.com>",
   "private": true,
   "scripts": {
