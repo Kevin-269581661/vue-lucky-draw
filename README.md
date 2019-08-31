@@ -88,7 +88,7 @@
   }
 ```
 
-可以clone项目 `npm i`  `npm run dev`，喜欢的话点个星吧^_^~
+可以clone项目 `npm i` , `npm run dev`，喜欢的话点个星吧^_^~
 
 
 
